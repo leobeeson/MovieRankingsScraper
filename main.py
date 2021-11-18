@@ -8,8 +8,8 @@ def get_empire_movies_top_100(file_path):
 
 
 if __name__ == "__main__":
-    file_path = "movie_rankings/empire_top_100_movies.txt"
-    get_empire_movies_top_100(file_path)
+    file_path_to_save_list = "movie_rankings/empire_top_100_movies.txt"
+    get_empire_movies_top_100(file_path_to_save_list)
 
 
 
